@@ -1,0 +1,20 @@
+.card-body{
+    padding: 0;
+}
+
+.group-form{
+    display: flex;
+    flex-wrap: nowrap;
+}
+.group-form .img-holder{
+    flex: 1 1 20rem;
+}
+.group-form form{
+    padding: 15px;
+    flex: 2 1 20rem;
+}
+.table-img{
+    width: 45px;
+    height: 45px;
+    border-radius: 50%;
+}
